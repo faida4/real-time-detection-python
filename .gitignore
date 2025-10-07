@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environnements virtuels
+venv/
+.env/
+
+# Données ou modèles lourds
+*.pb
+*.pbtxt
+*.weights
+*.cfg
+
+# VS Code
+.vscode/
+
+# Autres fichiers temporaires
+*.log
