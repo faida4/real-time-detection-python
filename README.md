@@ -12,7 +12,7 @@ Projet d’analyse vidéo en temps réel combinant :
   
 # 🎯 OpenPose & Object Detection (Python + OpenCV)
 
-![Preview](preview.png)
+![Preview](Preview.png)
 
 Projet d’analyse vidéo en temps réel combinant :
 - **Détection d’objets** avec *SSD MobileNet V2 (COCO)*
