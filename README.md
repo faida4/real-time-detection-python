@@ -10,13 +10,9 @@ Projet d’analyse vidéo en temps réel combinant :
 - OpenCV 4.11  
 - NumPy
   
-# 🎯 OpenPose & Object Detection (Python + OpenCV)
+## 🖼️ Aperçu
 
 ![Preview](Preview.png)
-
-Projet d’analyse vidéo en temps réel combinant :
-- **Détection d’objets** avec *SSD MobileNet V2 (COCO)*
-- **Détection de poses humaines** avec *OpenPose (TensorFlow)*
 
 
 ## ▶️ Exécution
